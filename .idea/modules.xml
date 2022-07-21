@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Testando Variáveis.iml" filepath="$PROJECT_DIR$/Testando Variáveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tipos de Dados/Tipos de Dados.iml" filepath="$PROJECT_DIR$/../Tipos de Dados/Tipos de Dados.iml" />
     </modules>
   </component>
 </project>
