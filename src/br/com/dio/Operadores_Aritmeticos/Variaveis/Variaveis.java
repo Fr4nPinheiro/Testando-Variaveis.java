@@ -1,4 +1,4 @@
-package br.com.dio.Variaveis;
+package br.com.dio.Operadores_Aritmeticos.Variaveis;
 
 public class Variaveis {
 
